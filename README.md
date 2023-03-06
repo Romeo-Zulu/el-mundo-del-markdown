@@ -20,5 +20,4 @@ alias aptup='sudo apt update && sudo apt upgrade'
 alias rm='trash'
 alias list='ls -la'
 ```
-***Bye...
-***
+***Bye...***
